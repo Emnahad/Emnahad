@@ -10,8 +10,13 @@ I'm a 22-year-old tech enthusiast and second-year student at SUP'COM, deeply exc
 </a>
 <br>  
 
-### Github Stats
+### What skills do I have?
+Tec
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Emnahad)](https://github.com/Emnahad)
+🔭 I'm currently working on a Tunisian platform for guest house reservations
+🌱 I’m currently learning DevOps
+📫 How to reach me emna.haddar@supcom.tn
+
+### Github Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emnahad&layout=compact)](https://github.com/Emnahad)
