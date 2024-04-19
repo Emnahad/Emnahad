@@ -8,13 +8,14 @@ I'm a 22-year-old tech enthusiast and second-year student at SUP'COM, deeply exc
 <br>  
 📫 How to reach me emna.haddar@supcom.tn
 ### Technical Skills
-Languages: Python, JavaScript, TypeScript, C++, C# .
-Front-End technologies such as HTML, CSS, Bootstrap, JavaScript, TypeScript, and frameworks including Angular, React, and Next.js.
-Back-end: I am proficient in .NET Core and have some familiarity with Spring Boot and nodejs.
-databases: I am familiar in both SQL and NoSQL (MongoDB), capable of effectively managing both.
-Architectural Styles: MVC.
-Containerization: I rely on Docker for packaging applications efficiently.
-CI/CD: I utilize Jenkins and GitHub Actions to automate my continuous integration and deployment processes.
+- **Languages:** Python, JavaScript, TypeScript, C++, C#.
+- **Front-End technologies:** HTML, CSS, Bootstrap, JavaScript, TypeScript. Frameworks: Angular, React, Next.js.
+- **Back-end:** Proficient in .NET Core. Familiar with Spring Boot and Node.js.
+- **Databases:** Familiar with both SQL and NoSQL (MongoDB), capable of effectively managing both.
+- **Architectural Styles:** MVC.
+- **Containerization:** Rely on Docker for packaging applications efficiently.
+- **CI/CD:** Utilize Jenkins and GitHub Actions to automate continuous integration and deployment processes.
+
 ### Connect with me
 <a href="https://www.linkedin.com/in/emna-haddar-16bb1a259/">
   <img align="left" src="https://github.com/Emnahad/Emnahad/raw/main/linkedin.png" alt="Emna Haddar | Linkedin" width="35px"/>
