@@ -5,4 +5,7 @@ I'm a 22-year-old tech enthusiast and second-year student at SUP'COM, deeply exc
 <a href="https://www.linkedin.com/in/emna-haddar-16bb1a259/">
   <img align="left" src="https://github.com/Emnahad/Emnahad/raw/main/linkedin.png" alt="Emna Haddar | Linkedin" width="35px"/>
 </a>
+<a href="https://github.com/Emnahad">
+  <img align="left" src="https://github.com/Emnahad/Emnahad/raw/main/linkedin.png" alt="Emna Haddar | Github" width="35px"/>
+</a>
 
