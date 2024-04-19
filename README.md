@@ -11,10 +11,11 @@ I'm a 22-year-old tech enthusiast and second-year student at SUP'COM, deeply exc
 <br>  
 
 ### What skills do I have?
-Tec
 
 🔭 I'm currently working on a Tunisian platform for guest house reservations
+<br>  
 🌱 I’m currently learning DevOps
+<br>  
 📫 How to reach me emna.haddar@supcom.tn
 
 ### Github Stats
