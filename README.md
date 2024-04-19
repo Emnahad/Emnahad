@@ -9,7 +9,9 @@ I'm a 22-year-old tech enthusiast and second-year student at SUP'COM, deeply exc
   <img align="left" src="https://github.com/Emnahad/Emnahad/blob/main/Github.png" alt="Emna Haddar | Github" width="35px"/>
 </a>
 <br>  
+
 ### Github Stats
+
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Emnahad)](https://github.com/Emnahad)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emnahad&layout=compact)](https://github.com/Emnahad)
