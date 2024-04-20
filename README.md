@@ -7,6 +7,8 @@ I'm a 22-year-old tech enthusiast and second-year student at SUP'COM, deeply exc
 🌱 I’m currently learning DevOps
 <br>  
 📫 How to reach me emna.haddar@supcom.tn
+
+This is my portfolio where you can find all my projects: https://personal-portfolio-tau-hazel.vercel.app/
 ### Technical Skills
 - **Languages:** Python, JavaScript, TypeScript, C++, C#.
 - **Front-End technologies:** HTML, CSS, Bootstrap, JavaScript, TypeScript. Frameworks: Angular, React, Next.js.
