@@ -8,7 +8,7 @@ I'm a 22-year-old tech enthusiast and final-year engineering student at SUP'COM,
 <br>  
 📫 How to reach me emna.haddar@supcom.tn
 
-This is my portfolio where you can find all my projects: https://personal-portfolio-tau-hazel.vercel.app/
+This is my portfolio where you can find all my projects: https://personal-portfolio-9ygyqjsu1-emnas-projects-1491a187.vercel.app/
 ### Technical Skills
 - **Languages:** Python, Java, TypeScript, C++, C#
 - **Front-End technologies:**  Angular, Bootstrap.
