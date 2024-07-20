@@ -12,7 +12,7 @@ This is my portfolio where you can find all my projects: https://personal-portfo
 ### Technical Skills
 - **Languages:** Python, Java, TypeScript, C++, C#
 - **Front-End technologies:**  Angular, Bootstrap.
-- **Back-end:** Proficient in .NET Core. Familiar with Spring Boot.
+- **Back-end:** Proficient in .NET Core. Starter with Spring Boot.
 - **Databases:** Familiar with both SQL and NoSQL (MongoDB), capable of effectively managing both.
 - **Architectural Styles:** MVC, clean architecture.
 - **Containerization:** Rely on Docker for packaging applications efficiently.
