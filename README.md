@@ -1,8 +1,8 @@
 ### Hi there 👋 I am Emna Haddar Software Engineer
 
-I'm a 22-year-old tech enthusiast and second-year student at SUP'COM, deeply excited about anything related to technology. Currently seeking a summer internship to enhance my skills in software engineering, I have a strong interest in problem-solving, especially in web and mobile development. Recently, I've been exploring the world of DevOps and its potential. Eager to collaborate, learn, and contribute to innovative projects
+I'm a 22-year-old tech enthusiast and final-year engineering student at SUP'COM, deeply excited about anything related to technology. Currently seeking a software graduation internship to enhance my skills in software engineering, I have a strong interest in problem-solving, especially in web and mobile development. Recently, I've been exploring the world of DevOps and its potential. Eager to collaborate, learn, and contribute to innovative projects.
 <br>
-🔭 I'm currently working on a Tunisian platform for guest house reservations
+🔭 I'm currently working on a Book Social Network platform
 <br>  
 🌱 I’m currently learning DevOps
 <br>  
@@ -10,13 +10,13 @@ I'm a 22-year-old tech enthusiast and second-year student at SUP'COM, deeply exc
 
 This is my portfolio where you can find all my projects: https://personal-portfolio-tau-hazel.vercel.app/
 ### Technical Skills
-- **Languages:** Python, JavaScript, TypeScript, C++, C#.
-- **Front-End technologies:** HTML, CSS, Bootstrap, JavaScript, TypeScript. Frameworks: Angular, React, Next.js.
-- **Back-end:** Proficient in .NET Core. Familiar with Spring Boot and Node.js.
+- **Languages:** Python, Java, TypeScript, C++, C#
+- **Front-End technologies:**  Angular, Bootstrap.
+- **Back-end:** Proficient in .NET Core. Familiar with Spring Boot.
 - **Databases:** Familiar with both SQL and NoSQL (MongoDB), capable of effectively managing both.
-- **Architectural Styles:** MVC.
+- **Architectural Styles:** MVC, clean architecture.
 - **Containerization:** Rely on Docker for packaging applications efficiently.
-- **CI/CD:** Utilize Jenkins and GitHub Actions to automate continuous integration and deployment processes.
+- **CI/CD:** Utilize Jenkins to automate continuous integration and deployment processes.
 
 ### Connect with me
 <a href="https://www.linkedin.com/in/emna-haddar-16bb1a259/">
