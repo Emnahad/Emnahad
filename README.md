@@ -1,8 +1,6 @@
-### Hi there 👋 I am Emna Haddar Future Software Engineer
+### Hi there 👋 I am Emna Haddar Software Engineer
 
-I'm a 22-year-old tech enthusiast and final-year engineering student at SUP'COM, deeply excited about anything related to technology. Currently seeking a software graduation internship to enhance my skills in software engineering, I have a strong interest in problem-solving, especially in web and mobile development. Recently, I've been exploring the world of DevOps and its potential. Eager to collaborate, learn, and contribute to innovative projects.
-<br>
-🔭 I'm currently working on a Book Social Network platform
+I'm a 23-year-old tech enthusiast and freshly graduated from SUP'COM, deeply excited about anything related to technology. Currently seeking a software full time experience to enhance my skills in software engineering, I have a strong interest in problem-solving, especially in web and mobile development. Recently, I've been exploring the world of DevOps and its potential. Eager to collaborate, learn, and contribute to innovative projects.
 <br>  
 🌱 I’m currently learning DevOps
 <br>  
@@ -10,8 +8,8 @@ I'm a 22-year-old tech enthusiast and final-year engineering student at SUP'COM,
 
 This is my portfolio where you can find all my projects: https://personal-portfolio-9ygyqjsu1-emnas-projects-1491a187.vercel.app/
 ### Technical Skills
-- **Languages:** Python, Java, TypeScript, C++, C#
-- **Front-End technologies:**  Angular, Bootstrap.
+- **Languages:** Python, Java, TypeScript, C#
+- **Front-End technologies:**  Angular, ReactJS.
 - **Back-end:** Proficient in .NET Core. Starter with Spring Boot.
 - **Databases:** Familiar with both SQL and NoSQL (MongoDB), capable of effectively managing both.
 - **Architectural Styles:** MVC, clean architecture.
